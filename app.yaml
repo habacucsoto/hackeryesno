@@ -1,0 +1,6 @@
+runtime: python
+env: flex
+entrypoint: python manage.py runserver 0.0.0.0:8080
+
+runtime config:
+  python version: 3

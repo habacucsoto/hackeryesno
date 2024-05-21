@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'hackeryesno.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'hackeryesno',
+        'NAME': 'hackerdb',
         'USER': 'postgres',
-        'PASSWORD': 'LeonesFC20',
-        'HOST': 'localhost',
-        'PORT': '5433',
+        'PASSWORD': '112358',
+        'HOST': '34.127.94.67',
+        'PORT': '5432',
     }
 }
 
